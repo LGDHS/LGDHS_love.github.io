@@ -10,7 +10,7 @@
 
 [https://LGDHS.github.io/LGDHS.github.io/1/](https://LGDHS.github.io/LGDHS.github.io/1/)
 
-[https://wenoif.github.io/csn_love/2/](https://wenoif.github.io/csn_love/2/)
+[https://LGDHS.github.io/LGDHS/1/](https://LGDHS.github.io/LGDHS/2/)
 
 [https://wenoif.github.io/csn_love/3/](https://wenoif.github.io/csn_love/3/)
 
