@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a559f35-a852-4e7c-8215-f1e9780490f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/img/cp12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/img/cp12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/5/index.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +40,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1/img" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
