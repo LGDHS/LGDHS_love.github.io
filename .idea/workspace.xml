@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2a559f35-a852-4e7c-8215-f1e9780490f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/5/index.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,5 +46,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="479" y="174" key="RollbackChangesDialog/0.0.1440.900/-269.-1080.1920.1080@0.0.1440.900" timestamp="1644891004347" />
+    <state x="421" y="205" width="597" height="490" key="find.popup" timestamp="1644893926833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="597" height="490" key="find.popup/0.0.1440.900/-269.-1080.1920.1080@0.0.1440.900" timestamp="1644893926833" />
   </component>
 </project>
